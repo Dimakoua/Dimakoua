@@ -48,8 +48,6 @@ Production-ready FastAPI boilerplate with JWT auth, async Postgres, and Docker.
 
 ## ✍️ Articles
 
-> Published on Medium — all written by me ✍️
-
 ### 🧠 Elixir / Phoenix
 
 - ✅ [Setting Up a Dev Container for Your Elixir Phoenix Project (Without the Headaches)](https://medium.com/p/4ca082589cd2)
