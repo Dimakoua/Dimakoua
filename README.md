@@ -87,7 +87,6 @@ Production-ready FastAPI boilerplate with JWT auth, async Postgres, and Docker.
 
 ## 📬 Connect with Me
 
-- 🌐 [dmytrokozin.me](https://dmytrokozin.me)
 - 💼 [LinkedIn](https://linkedin.com/in/dmytro-kozin-tr)
 - 🧠 [LeetCode](https://leetcode.com/dimakoua)
 ---
