@@ -32,7 +32,7 @@ I specialize in Elixir, PHP, JavaScript (React, Vue), and Python — designing s
 ### [🐇 hare_mq](https://hex.pm/packages/hare_mq)  
 Reliable RabbitMQ library for Elixir — supports retries, reconnections, and multiple consumers.
 
-### [📱 SDUF (No-Code Builder)](https://github.com/sduf-net/sduf)  
+### [📱 SDUF (No-Code Builder)](https://github.com/sduf-net/sdufReactNative)  
 Drag-and-drop mobile app builder with dynamic UI, screen rules, API connections & APK generation.
 
 ### [📝 job-match-resume](https://github.com/Dimakoua/job-match-resume)  
